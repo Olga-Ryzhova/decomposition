@@ -1,0 +1,15 @@
+.adtv-banner {
+    margin-top: 20px;
+    margin-left: 55px;
+    width: 708px;
+    height: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+} 
+
+.adtv-info {
+    text-decoration: none;
+}

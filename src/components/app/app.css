@@ -1,0 +1,17 @@
+.container {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 30px;
+    
+}
+
+.header {
+   display: flex;
+}
+
+.search-block {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+}

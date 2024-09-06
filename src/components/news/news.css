@@ -1,0 +1,30 @@
+.allNews {
+    margin-left: 55px;
+    margin-right: 319px;
+}
+.newsCateroty {
+    width: 356px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.category {
+    text-decoration: none;
+
+}
+
+.allItem {
+    list-style-type: none;
+    padding: 0;
+}
+
+.news-icon {
+    margin-right: 10px;
+    width: 10px;
+    height: 10px;
+}
+
+.news-link {
+    text-decoration: none;
+
+}
